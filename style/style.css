@@ -1,0 +1,11 @@
+body{
+    background-color:darkcyan;
+    text-align: center;
+    color: darkgray;
+}
+header{
+    text-align: center;
+}
+#add_word, #send_word{
+    border-radius: 10px;
+}
